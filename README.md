@@ -63,4 +63,4 @@ Use the following controls:
 - I: Select the Insertion Sort algorithm (available when not sorting).
 - B: Select the Bubble Sort algorithm (available when not sorting).
 
-![Homepage](screenshots/sort.jpg)
+![Homepage](screenshot/sort.jpg)
