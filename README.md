@@ -50,8 +50,9 @@ The Sorting Visualizer provides the following features:
 1. Run the Sorting Visualizer:
 
    ```shell
-   python sorting_visualizer.py
+   python sorting-visualizer.py
   ```
+
 
 
 Use the following controls:
@@ -62,3 +63,4 @@ Use the following controls:
 - I: Select the Insertion Sort algorithm (available when not sorting).
 - B: Select the Bubble Sort algorithm (available when not sorting).
 
+![Homepage](screenshots/sort.jpg)
